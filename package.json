@@ -1,0 +1,15 @@
+{
+  "name": "code-roles-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "prestart": "tsc",
+    "start": "node dist/index.js"
+  },
+  "author": "david.kang@outlook.de",
+  "license": "GPL",
+  "dependencies": {
+    "typescript": "^3.8.3"
+  }
+}
